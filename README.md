@@ -1,5 +1,6 @@
 # AutonomousParkingMLUnity 
 Training autonomous parking for cars using Unity's ML-agents and physics simulation.
+
 Sample project made to support medium article:
 
 
